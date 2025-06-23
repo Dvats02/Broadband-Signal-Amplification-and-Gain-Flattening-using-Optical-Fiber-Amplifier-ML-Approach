@@ -22,7 +22,7 @@ Based on:
 
 ## 📊 Model Performance
 
-- ✅ **Best Accuracy (R² Score):** ~0.89
+- ✅ **Best Accuracy (R² Score):** ~0.92
 - ✅ **Loss Metric Used:** Mean Absolute Error (MAE), Mean Squared Error (MSE)
 - ✅ **Optimization Techniques:** Grid Search, Cross Validation
 
